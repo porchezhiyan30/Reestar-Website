@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: "Gabarito", sans-serif;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+.navbar-s2 p{
+    display: inline-block;
+}
+.image-1{
+    width: 250px;
+}
+.image-1 img{
+    width: 100%;
+}
+.image-1{
+    display: inline-block;
+}
+.Reestar-image{
+    text-align: center;
+}
+.image-1{
+    border: 1px solid black;
+}
+.image-1 button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+}
+.Reestar-contact{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
+.contact{
+    display: inline-block;
+}
+.contact button{
+    background-color: yellow;
+    color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
